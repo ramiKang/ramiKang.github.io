@@ -1,0 +1,8 @@
+site_name: Rami Blog
+site_url: https://ramiKang.github.io
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
