@@ -1,0 +1,2 @@
+mkdocs-material
+click==8.2.1
